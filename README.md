@@ -1,3 +1,7 @@
+#Кол-во разработчиков – 1
+#Кол-во веток – 1
+#Регулярность использования – 67
+#Кол-во копирований – 29
 ![lmdb-embeddings](https://socialify.git.ci/ThoughtRiver/lmdb-embeddings/image?description=1&font=Raleway&forks=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F10864294%2F29792093-382146cc-8c37-11e7-9e70-6f71b3d0800b.png&owner=1&pattern=Plus&stargazers=1&theme=Light)
 
 [![Build Status](https://travis-ci.org/ThoughtRiver/lmdb-embeddings.svg?branch=master)](https://travis-ci.org/ThoughtRiver/lmdb-embeddings)
